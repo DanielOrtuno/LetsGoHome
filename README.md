@@ -1,5 +1,4 @@
-# LetsGoHome
-Let's Go Home - Unity
+# Let's Go Home - Unity
 
 2D puzzle platformer game built during GGJ 2019 at Central Florida.
 
